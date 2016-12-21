@@ -1,0 +1,29 @@
+{
+  "name": "react-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "mz": "^2.6.0",
+    "react-scripts": "0.8.2",
+    "supertest": "^2.0.1",
+    "supertest-as-promised": "^4.0.2"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "material-ui": "^0.16.5",
+    "re-base": "^2.5.1",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-google-login": "^2.5.8",
+    "react-router": "4.0.0-alpha.4",
+    "react-tap-event-plugin": "^2.0.1",
+    "recharts": "^0.19.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start:server": "node server",
+    "build": "react-scripts build",
+    "test": "mocha test",
+    "eject": "react-scripts eject"
+  }
+}
