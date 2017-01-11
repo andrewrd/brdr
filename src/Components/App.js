@@ -31,9 +31,7 @@ const initial  = [
       {name: 'John Doe 14', attempts: 9090, score: 4300, amt: 2100},
 ];
 injectTapEventPlugin();
-const responseGoogle = (response) => {
-  console.log(response);
-}
+
 class App extends Component {
 
   constructor(){
