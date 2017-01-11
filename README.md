@@ -1,6 +1,6 @@
-###This project is in development.
+#Brdr[In Development]
 
-This project is intended to create a realtime dashboard which updates automatically when results are pulled from a Firebase database. It is written in ReactJS, ExpressJS. I am open to contributors to this project.
+This project is intended to create a realtime dashboard which is intended to pull updates realtime from a database/API. It is written in ReactJS, ExpressJS. I am open to contributors to this project.
 
 ## Installation
 
@@ -8,7 +8,6 @@ Type in the terminal:
 ``` 
 npm install
 ```
-
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
